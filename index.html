@@ -16,7 +16,7 @@
       <p class="description">You can now listen to millions of songs, audiobooks, and podcasts on any 
         device anywhere you like!</p>
       <div class="plan">
-        <img src="/icon-music.svg" alt="Music Icon">
+        <img src="icon-music.svg" alt="Music Icon">
         <div class="plan-description">
         <strong>Annual Plan</strong>
         <p>$59.99/year</p> 
